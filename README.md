@@ -1,4 +1,4 @@
-# Tech & Lifestyle Weekly
+# Completed Lab 2 - Multi-Page Magazine Website
 
 ## Student Information
 - **Name:** DEVON ANDRE L. DALMAN  
